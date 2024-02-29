@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure--1#ny0io1*@-!@*bjuef&xzxs^&(4ws#c5_aaie_ny87gdm=d#
 DEBUG = True
 
 CORS_ALLOW_ALL_ORIGINS = True
-
+ALLOWED_HOSTS = ['localhost', 'cipher-xh27.onrender.com', 'https://rohit2905.github.io/numbers-frontend/']
 
 # Application definition
 
