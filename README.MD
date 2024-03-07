@@ -1,4 +1,4 @@
-# Software Engineering Practicum 7, 8
+# Software Engineering Practicum 7, 8.
 
 ## Group Members
 
